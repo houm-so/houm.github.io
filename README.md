@@ -5,7 +5,7 @@ Static site for Houm, published with GitHub Pages: an overview of the app and it
 
 ## Structure
 
-- `index.html` — landing page describing the app, its features, and the countries it operates in.
+- `index.html` — landing page describing the app, its modules, and its features.
 - `privacy-policy.html` — privacy policy, served at the clean URL `/privacy-policy` (GitHub Pages resolves extensionless paths to their `.html` file).
 - `assets/styles.css` — shared stylesheet for both pages.
 - `.github/workflows/deploy.yml` — GitHub Actions workflow that builds and deploys the site to GitHub Pages on every push to `main`.
